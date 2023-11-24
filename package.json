@@ -1,0 +1,16 @@
+{
+  "name": "core-node-project",
+  "version": "1.0.0",
+  "description": "A package with code for learn node basics",
+  "scripts": {
+    "start:reloj-app": "node src/reloj-app/app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "colors": "^1.4.0",
+    "inquirer": "^7.3.3"
+  }
+}
